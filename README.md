@@ -8,8 +8,6 @@
   <p>
     <a href="https://navyagupta.me">Portfolio</a> ·
     <a href="https://github.com/Guptan0506">GitHub</a> ·
-    <a href="https://www.linkedin.com/in/navyagupta0509">LinkedIn</a> ·
-    <a href="mailto:gupta2ny@mail.uc.edu">Email</a>
   </p>
 </div>
 
