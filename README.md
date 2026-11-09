@@ -47,8 +47,6 @@ Hands-on cloud projects covering custom VPCs, public and private subnets, route 
 ## Find me online
 
 - **Portfolio:** [navyagupta.me](https://navyagupta.me)
-- **LinkedIn:** [linkedin.com/in/navyagupta0509](https://www.linkedin.com/in/navyagupta0509)
-- **Email:** [gupta2ny@mail.uc.edu](mailto:gupta2ny@mail.uc.edu)
 
 ---
 
