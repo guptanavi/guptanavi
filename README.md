@@ -3,7 +3,7 @@
 
   # Navya Gupta
 
-  **IT and cloud engineering student · builder · problem solver**
+  **IT student - Software Application Development and Data Technologies · builder · problem solver**
 
   <p>
     <a href="https://navyagupta.me">Portfolio</a> ·
